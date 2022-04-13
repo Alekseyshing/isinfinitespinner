@@ -1,5 +1,5 @@
 # Infinite Spinner
-infinite spinner via css
+Infinite spinner via css
 
 ![image](https://github.com/Alekseyshing/isinfinitespinner/blob/main/spinner-css2.gif)
 
